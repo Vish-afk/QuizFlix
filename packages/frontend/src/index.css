@@ -1,0 +1,14 @@
+/* Reset browser defaults and set up the foundation */
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* Set the default background for the entire page */
+body {
+  background-color: #121212;
+}
