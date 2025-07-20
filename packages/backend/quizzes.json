@@ -1,0 +1,677 @@
+[
+  {
+    "difficulty": "easy",
+    "quizzes": [
+      {
+        "title": "Titanic",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kVkHFBPYLhP.jpg",
+        "clues": [
+          "This epic romance takes place on a famous, ill-fated ship.",
+          "It's known for its iconic 'I'm the king of the world!' scene.",
+          "A large blue diamond plays a significant role in the story.",
+          "One of the leads poses for a portrait while wearing only the necklace.",
+          "The ship hits an iceberg."
+        ]
+      },
+      {
+        "title": "Jurassic Park",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/oJt3N5m9LhP0M1D5i7Q7Zz9D2o8.jpg",
+        "clues": [
+          "Welcome... to an island where science has gone too far.",
+          "Clones of prehistoric creatures run rampant.",
+          "A vibrating glass of water signals approaching danger.",
+          "The main gate opens to a world of awe and terror.",
+          "It involves a park and creatures that lived millions of years ago."
+        ]
+      },
+      {
+        "title": "The Lion King",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tL7xL4fK7jMh9l8l3p0l7W0jQ9s.jpg",
+        "clues": [
+          "This animated film features a young cub destined for royalty.",
+          "Its soundtrack includes 'Circle of Life' and 'Hakuna Matata'.",
+          "A tragic event involving a stampede changes everything.",
+          "The villain has a scar over his eye.",
+          "It's a coming-of-age story in the African savanna."
+        ]
+      },
+      {
+        "title": "Toy Story",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uFp1HclzLp2J3P8Jb7n0R4Q8u.jpg",
+        "clues": [
+          "What if your playthings came to life when you weren't looking?",
+          "A new space ranger toy causes jealousy in the leader of the group.",
+          "The main characters escape from a menacing neighbor.",
+          "One character's catchphrase is 'To infinity and beyond!'",
+          "It's about the secret life of a child's collection."
+        ]
+      },
+      {
+        "title": "Home Alone",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ugjaO3sK5f9bBvH9B8Y6J9H6P3L.jpg",
+        "clues": [
+          "A family accidentally leaves their youngest member behind for Christmas.",
+          "He defends his house from two bumbling burglars.",
+          "The traps he sets are famously elaborate and painful.",
+          "A classic scene involves aftershave and a scream.",
+          "It's a holiday comedy about a child left by himself."
+        ]
+      },
+      {
+        "title": "Forrest Gump",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/saP5m7W2F9oJ3x3L9dG1o6K5e4L.jpg",
+        "clues": [
+          "Life is like a box of chocolates...",
+          "This man with a low IQ experiences major historical events.",
+          "He becomes a decorated war hero, a ping-pong champion, and a shrimp boat captain.",
+          "He runs across America for no particular reason.",
+          "A feather floating in the wind is a recurring motif."
+        ]
+      },
+      {
+        "title": "Finding Nemo",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eC6Vw6RjE3N6fXm4X3R7fT8g4Q.jpg",
+        "clues": [
+          "A clownfish father crosses the ocean to find his son.",
+          "He's aided by a blue tang with short-term memory loss.",
+          "They encounter sharks who are trying to be vegetarians.",
+          "The son ends up in a dentist's office fish tank.",
+          "It's an animated adventure set under the sea."
+        ]
+      },
+      {
+        "title": "Toy Story 2",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jpDkQ99R7j0K5V1k8t6H0W5wM2L.jpg",
+        "clues": [
+          "The space ranger has to rescue his cowboy friend.",
+          "They discover their friend is a valuable collectible.",
+          "A whole gang of new friends from a TV show are introduced.",
+          "One of the new characters yodels.",
+          "It's the sequel where the toys meet more of their kind."
+        ]
+      },
+      {
+        "title": "Spider-Man",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yE5d3UXzT1546W77dJ1W2zT1T.jpg",
+        "clues": [
+          "A high school student gains incredible powers after a bite.",
+          "He learns that with great power comes great responsibility.",
+          "His first major villain is a wealthy industrialist in a green suit.",
+          "He swings through the city on webs.",
+          "This hero wears a red and blue suit."
+        ]
+      },
+      {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jn3NfCUMt791V4x4x6V6J5w0vC8.jpg",
+        "clues": [
+          "A young orphan discovers he's a wizard on his eleventh birthday.",
+          "He attends a magical boarding school.",
+          "He makes two loyal friends on a train.",
+          "The climax involves a magical stone.",
+          "The main character has a lightning bolt scar."
+        ]
+      },
+      {
+        "title": "Shrek",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dyGj6VwS2Ld4X8b0X8S7R7J7W1b.jpg",
+        "clues": [
+          "An ogre just wants peace and quiet in his swamp.",
+          "He embarks on a quest with a talkative donkey.",
+          "Their mission is to rescue a princess from a dragon.",
+          "The villain is a very short lord.",
+          "It's an animated fairytale parody."
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sK8L27y1R77zT2Tj5sJ9X7fW2gH.jpg",
+        "clues": [
+          "A swashbuckling adventure on the high seas.",
+          "Cursed treasure turns pirates into skeletal beings under moonlight.",
+          "A blacksmith teams up with a rogue captain to rescue his love.",
+          "The main ship is called the Black Pearl.",
+          "It features a very eccentric pirate captain."
+        ]
+      },
+      {
+        "title": "Monsters, Inc.",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zI0A2U6bQ5fW5V0h7hW6u0L2w3G.jpg",
+        "clues": [
+          "A world where monsters generate power from children's screams.",
+          "Two best friends, one large and furry, the other small and green, work at a scream factory.",
+          "A human child accidentally enters their world.",
+          "The child's laugh proves to be more powerful than screams.",
+          "The main characters work in a factory that scares kids."
+        ]
+      },
+      {
+        "title": "The Incredibles",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yJ0pG20W5F6N7X8q0Q6V6p7D7j9.jpg",
+        "clues": [
+          "A family of former heroes must secretly use their powers again.",
+          "The mother has incredible flexibility.",
+          "The father has super strength and works in insurance.",
+          "The fashion designer insists 'No capes!'",
+          "It's about a hidden family of super-powered individuals."
+        ]
+      },
+      {
+        "title": "Despicable Me",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/o7VAj4Q5V5l720vJ3R7j8q8H0h0.jpg",
+        "clues": [
+          "A supervillain's plans are complicated by three orphan girls.",
+          "He aims to steal the moon.",
+          "His army consists of small, yellow, gibberish-speaking creatures.",
+          "He warms up to the idea of being a dad.",
+          "It features a bad guy who slowly becomes good."
+        ]
+      },
+      {
+        "title": "Frozen",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/f8U7T1lT4x5w4w2Q2X7N3T6S2y6.jpg",
+        "clues": [
+          "A queen with ice powers accidentally plunges her kingdom into eternal winter.",
+          "Her determined sister sets off to find her.",
+          "A talking snowman loves warm hugs.",
+          "The hit song is 'Let It Go'.",
+          "It's an animated musical about two royal sisters."
+        ]
+      },
+      {
+        "title": "Minions",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qBqjS6J5qQ1C5x0lK3x4z5P7p4H.jpg",
+        "clues": [
+          "These small, yellow creatures search for the most despicable master.",
+          "They journey from the dawn of time to the 1960s.",
+          "Their ultimate goal is to serve an evil overlord.",
+          "They inadvertently cause chaos wherever they go.",
+          "This film focuses on the backstory of popular small, yellow sidekicks."
+        ]
+      },
+      {
+        "title": "Zootopia",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qj8f0c5R0jM5X7l7F6F7H5F5T5f.jpg",
+        "clues": [
+          "In a city where animals coexist, a rookie bunny cop tries to prove herself.",
+          "She partners with a cunning fox.",
+          "They uncover a conspiracy involving predator animals going savage.",
+          "A key scene involves a DMV run by sloths.",
+          "It's an animated mystery set in a world of anthropomorphic animals."
+        ]
+      },
+      {
+        "title": "Moana",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bC800S4XQ9d1f3j7L9w1l2m3v5b.jpg",
+        "clues": [
+          "A strong-willed teenager sets sail to save her people.",
+          "She seeks out a demigod with a magical fishhook.",
+          "The ocean itself seems to have a personality.",
+          "The climactic confrontation is with a fiery demon.",
+          "It's a Polynesian-inspired animated adventure."
+        ]
+      },
+      {
+        "title": "Coco",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vZ82K1B8P4n1d2x0f7q9g3V1x7q.jpg",
+        "clues": [
+          "A young aspiring musician is transported to the Land of the Dead.",
+          "He seeks the blessing of his family's musical ancestor.",
+          "Marigolds are a significant symbol in this film.",
+          "The film explores themes of family, memory, and tradition during Día de Muertos.",
+          "A boy tries to become a singer against his family's wishes."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "quizzes": [
+      {
+        "title": "Inception",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pFWAiKk18VbN9qX0D3J3E7P0U5L.jpg",
+        "clues": [
+          "This film deals with stealing information from targets by entering their dreams.",
+          "It features a team that builds and navigates intricate dreamscapes.",
+          "A spinning top is a key totem for one of the characters.",
+          "The main goal is to plant an idea, not steal one.",
+          "It's known for its mind-bending plot and stunning visual effects, especially a hallway fight scene."
+        ]
+      },
+      {
+        "title": "The Dark Knight",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yU8P1z4S0z8f3Z7d9J6d7g3E7X4.jpg",
+        "clues": [
+          "The hero of Gotham faces off against a chaotic agent with a penchant for anarchy.",
+          "A pencil disappears in a very specific way.",
+          "The city's district attorney becomes a tragic figure.",
+          "The antagonist asks 'Why so serious?'",
+          "It's a gritty superhero sequel with a memorable villain."
+        ]
+      },
+      {
+        "title": "Pulp Fiction",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xY87d0P7p6J6V6s7h7g7w3P4p7v.jpg",
+        "clues": [
+          "This non-linear narrative connects several crime stories in Los Angeles.",
+          "A mysterious briefcase is a central, yet unexplained, object.",
+          "A dance contest and a shot of adrenaline are key scenes.",
+          "One character is known for his biblical quotes before a hit.",
+          "It's a highly influential independent film with iconic dialogue."
+        ]
+      },
+      {
+        "title": "Parasite",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rXy2xGgX8V2f3F3J5R8z8V7U8V5.jpg",
+        "clues": [
+          "A poor family gradually infiltrates a wealthy household, one by one.",
+          "The film masterfully blends elements of dark comedy, thriller, and drama.",
+          "A specific rock is a symbolic gift passed between family members.",
+          "The basement holds a dark secret.",
+          "It's a South Korean film that won Best Picture."
+        ]
+      },
+      {
+        "title": "Spirited Away",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wuT2n87f4l8Xv4Y4v3p3J8Q0p5v.jpg",
+        "clues": [
+          "A young girl wanders into a world of spirits and works in a bathhouse.",
+          "Her parents are transformed into pigs.",
+          "She encounters a mysterious boy who helps her navigate this strange new reality.",
+          "A faceless spirit who consumes others becomes a prominent figure.",
+          "It's a critically acclaimed animated fantasy from Japan."
+        ]
+      },
+      {
+        "title": "Joker",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uS9QeH9D4u8n7Q5s4b4c7G7h7w8X.jpg",
+        "clues": [
+          "This character's origin story depicts a failed comedian's descent into madness.",
+          "It features a memorable stairway dance scene.",
+          "His laughter is often uncontrollable and painful.",
+          "The film paints a grim picture of Gotham's societal issues.",
+          "It explores the mental decline of a future iconic villain."
+        ]
+      },
+      {
+        "title": "Whiplash",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yC2y0t622o2j3X8f3D5X7w4E3R0.jpg",
+        "clues": [
+          "A talented drummer strives for perfection under a ruthless instructor.",
+          "The film features intense, sweat-soaked musical performances.",
+          "A specific jazz piece, 'Caravan,' is central to the narrative.",
+          "The instructor throws a cymbal at one point.",
+          "It's a gripping drama about ambition and abuse in a music conservatory."
+        ]
+      },
+      {
+        "title": "Get Out",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/l9Zl7Tj3f4k8j8V3W0m3G0N4P5y.jpg",
+        "clues": [
+          "A young man visits his girlfriend's family estate for the first time.",
+          "He soon discovers disturbing secrets beneath their liberal facade.",
+          "Teacups and spoons play a chilling role in inducing a 'Sunken Place'.",
+          "The family engages in bizarre rituals involving elderly people.",
+          "It's a horror film that cleverly satirizes racial tensions."
+        ]
+      },
+      {
+        "title": "Interstellar",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gLqV6x6z8j9f4N9d4X7p1Z8y5f5.jpg",
+        "clues": [
+          "Humanity seeks a new home through a wormhole as Earth dies.",
+          "Time dilation is a crucial plot element.",
+          "A dusty farmhouse and cornfields are early settings.",
+          "The protagonist communicates with his daughter through gravity.",
+          "It's a grand science fiction epic involving space travel and black holes."
+        ]
+      },
+      {
+        "title": "Blade Runner 2049",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y6E8Gg8E3P2D6F5Q2G6E6D7G3V8Q.jpg",
+        "clues": [
+          "A synthetic human police officer uncovers a long-buried secret.",
+          "The futuristic Los Angeles is constantly rainy and bleak.",
+          "Whisky is a preferred drink in this desolate world.",
+          "A key discovery is a wooden horse.",
+          "It's a visually stunning sequel to a cyberpunk classic."
+        ]
+      },
+      {
+        "title": "La La Land",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2L2P7w5A4g6z6w6L5R8C3Q8X8V6Y.jpg",
+        "clues": [
+          "An aspiring actress and a jazz pianist fall in love in Los Angeles.",
+          "It's a vibrant, colorful musical with choreographed dance numbers.",
+          "A memorable scene takes place at the Griffith Observatory.",
+          "The film explores the compromises made for artistic dreams.",
+          "It's a modern take on classic Hollywood musicals."
+        ]
+      },
+      {
+        "title": "Mad Max: Fury Road",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qj8f0c5R0jM5X7l7F6F7H5F5T5f.jpg",
+        "clues": [
+          "In a post-apocalyptic wasteland, a fierce female warrior drives a war rig.",
+          "The entire film is essentially one long, high-octane chase.",
+          "A character plays a flamethrowing guitar.",
+          "Water is a precious commodity controlled by a tyrannical leader.",
+          "It's a relentless action film set in a desert."
+        ]
+      },
+      {
+        "title": "Arrival",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h2N4W8Q1eJ6J0J9P8H5L6M6C2T0.jpg",
+        "clues": [
+          "A linguist is recruited to communicate with extraterrestrial visitors.",
+          "The aliens communicate through circular, ink-like symbols.",
+          "The narrative structure plays with non-linear time.",
+          "A 'weapon' turns out to be a gift of communication.",
+          "It's a thoughtful science fiction film about language and perception."
+        ]
+      },
+      {
+        "title": "Her",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y4X2z4Y3Y3X6Q7V4L6R4W8T9T8W7.jpg",
+        "clues": [
+          "A lonely writer falls in love with an artificial intelligence operating system.",
+          "The AI develops and evolves, leading to complex emotional dynamics.",
+          "Their relationship is conducted entirely through voice interaction.",
+          "The protagonist's job involves writing personal letters for others.",
+          "It's a poignant romance set in a near-future Los Angeles."
+        ]
+      },
+      {
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yY8Y5p5P9N6Y5F6M7F7G7H7W7R8D.jpg",
+        "clues": [
+          "A washed-up actor, famous for playing a superhero, tries to revive his career on Broadway.",
+          "The film appears to be shot in one continuous take.",
+          "He's haunted by the voice of his former costumed persona.",
+          "A drum score underscores much of the film.",
+          "It's a satirical black comedy about ego and artistic ambition."
+        ]
+      },
+      {
+        "title": "Drive",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y7X5w7L6D3F9J3X5H7K0L8X6U0Q.jpg",
+        "clues": [
+          "A Hollywood stuntman moonlights as a getaway driver.",
+          "Its neo-noir style is characterized by a sleek aesthetic and a synth-heavy soundtrack.",
+          "A scorpion jacket is his signature attire.",
+          "He attempts to protect his neighbor and her son.",
+          "It's a stylish crime thriller with minimal dialogue."
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xV1w1y1W5l5M1X0w0S7x7Q7F7C7P7.jpg",
+        "clues": [
+          "A couple undergoes a procedure to erase each other from their memories.",
+          "The narrative shifts between memories and reality, often collapsing into each other.",
+          "Joel and Clementine are the names of the main characters.",
+          "A blue hair dye changes throughout the story.",
+          "It's a unique sci-fi romance exploring memory, relationships, and regret."
+        ]
+      },
+      {
+        "title": "No Country for Old Men",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yQ9C7N4t9D5X4K5L6H8F8J8V8C2X.jpg",
+        "clues": [
+          "A hunter stumbles upon a drug deal gone wrong and a suitcase of money.",
+          "He's relentlessly pursued by a cold-blooded killer with a bizarre weapon.",
+          "The weapon is a captive bolt pistol.",
+          "The killer often lets fate decide by flipping a coin.",
+          "It's a violent neo-western with a philosophical undertone."
+        ]
+      },
+      {
+        "title": "Prisoners",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xV1w1y1W5l5M1X0w0S7x7Q7F7C7P7.jpg",
+        "clues": [
+          "When his daughter goes missing, a desperate father takes matters into his own hands.",
+          "A detective with a distinctive tattoo investigates the case.",
+          "Mazes and a red whistle are recurring symbols.",
+          "The film is set in a gloomy, rainy Pennsylvania.",
+          "It's a dark and intense thriller about abduction and justice."
+        ]
+      },
+      {
+        "title": "The Grand Budapest Hotel",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yQ9C7N4t9D5X4K5L6H8F8J8V8C2X.jpg",
+        "clues": [
+          "A concierge and his lobby boy become embroiled in a theft and murder mystery.",
+          "The film is known for its distinctive symmetrical visual style and vibrant color palette.",
+          "A valuable painting, 'Boy with Apple,' is central to the plot.",
+          "M. Gustave and Zero Moustafa are the main duo.",
+          "It's a whimsical and meticulously crafted ensemble comedy-drama."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "quizzes": [
+      {
+        "title": "Mulholland Drive",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qj8f0c5R0jM5X7l7F6F7H5F5T5f.jpg",
+        "clues": [
+          "A hopeful actress moves to Los Angeles and encounters an amnesiac woman.",
+          "The narrative famously shifts dramatically halfway through.",
+          "A blue box and a blue key are mysterious recurring objects.",
+          "The Silencio Club and a small old couple are key elements.",
+          "It's a complex, dreamlike neo-noir film often described as a puzzle."
+        ]
+      },
+      {
+        "title": "Stalker",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h2N4W8Q1eJ6J0J9P8H5L6M6C2T0.jpg",
+        "clues": [
+          "Three men journey through a mysterious, forbidden area called 'The Zone'.",
+          "Their destination is a room said to grant wishes, but only to those with pure intentions.",
+          "The film is characterized by its slow pacing and philosophical dialogue.",
+          "A wet dog often accompanies the trio.",
+          "It's a seminal Soviet science fiction art film."
+        ]
+      },
+      {
+        "title": "Cache (Hidden)",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y4X2z4Y3Y3X6Q7V4L6R4W8T9T8W7.jpg",
+        "clues": [
+          "A Parisian couple receives mysterious, unnerving video tapes of their home.",
+          "The film explores themes of guilt, colonialism, and surveillance.",
+          "A long, static shot outside a building is a crucial revelation.",
+          "A chicken's head is symbolically severed.",
+          "It's a chilling psychological thriller by a renowned Austrian director."
+        ]
+      },
+      {
+        "title": "The Turin Horse",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yY8Y5p5P9N6Y5F6M7F7G7H7W7R8D.jpg",
+        "clues": [
+          "It depicts the repetitive, desolate existence of a father, his daughter, and their horse.",
+          "The film is shot in stark black and white, featuring long takes.",
+          "The sound of the wind is a constant, oppressive presence.",
+          "It's said to be inspired by a real-life incident involving a philosopher and a horse.",
+          "This minimalist Hungarian film explores the end of the world."
+        ]
+      },
+      {
+        "title": "Synecdoche, New York",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y7X5w7L6D3F9J3X5H7K0L8X6U0Q.jpg",
+        "clues": [
+          "A theater director builds an increasingly elaborate and realistic stage play within a warehouse.",
+          "The play replicates his own life and eventually, the lives of everyone around him.",
+          "Time passes at an accelerated and surreal pace within the narrative.",
+          "Miniature models and doppelgangers become part of the artistic process.",
+          "It's a deeply philosophical and melancholic film about art, mortality, and identity."
+        ]
+      },
+      {
+        "title": "Under the Skin",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xV1w1y1W5l5M1X0w0S7x7Q7F7C7P7.jpg",
+        "clues": [
+          "An enigmatic woman drives around Scotland, luring men into her van.",
+          "Her motives and identity are slowly revealed to be extraterrestrial.",
+          "The victims are submerged into a black, viscous pool.",
+          "Many scenes feature hidden cameras and non-professional actors.",
+          "It's a minimalist, unsettling sci-fi horror film known for its atmospheric dread."
+        ]
+      },
+      {
+        "title": "The Master",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qj8f0c5R0jM5X7l7F6F7H5F5T5f.jpg",
+        "clues": [
+          "A tormented World War II veteran falls under the sway of a charismatic cult leader.",
+          "The cult, known as 'The Cause', involves 'processing' sessions.",
+          "One character performs a series of rapid-fire questions and answers.",
+          "It's set in post-WWII America and explores themes of faith, manipulation, and trauma.",
+          "The film is loosely inspired by the origins of Scientology."
+        ]
+      },
+      {
+        "title": "A Ghost Story",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h2N4W8Q1eJ6J0J9P8H5L6M6C2T0.jpg",
+        "clues": [
+          "A recently deceased man returns to his home as a sheet-clad spectral entity.",
+          "He silently watches his grieving wife and the passage of time.",
+          "A long, uninterrupted scene involves a character eating a pie.",
+          "The film plays with themes of time, memory, and existentialism.",
+          "It's a contemplative, melancholic drama with a distinct visual style."
+        ]
+      },
+      {
+        "title": "The Lighthouse",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y4X2z4Y3Y3X6Q7V4L6R4W8T9T8W7.jpg",
+        "clues": [
+          "Two lighthouse keepers on a remote New England island descend into madness.",
+          "The film is shot in black and white with a nearly square aspect ratio.",
+          "Seagulls and mermaids feature prominently in their hallucinations.",
+          "The older keeper is obsessed with the light at the top of the tower.",
+          "It's a psychological horror film about isolation and escalating tension."
+        ]
+      },
+      {
+        "title": "Burning",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yY8Y5p5P9N6Y5F6M7F7G7H7W7R8D.jpg",
+        "clues": [
+          "A struggling aspiring writer encounters a mysterious and wealthy young man.",
+          "The disappearance of a woman leads to an unsettling investigation.",
+          "A cat named 'Boil' is mentioned but never truly seen.",
+          "The film features a memorable dance sequence at sunset.",
+          "It's a slow-burn South Korean psychological thriller based on a short story."
+        ]
+      },
+      {
+        "title": "Barton Fink",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y7X5w7L6D3F9J3X5H7K0L8X6U0Q.jpg",
+        "clues": [
+          "A high-minded New York playwright comes to Hollywood to write a wrestling movie.",
+          "He struggles with writer's block and the bizarre inhabitants of his hotel.",
+          "The peeling wallpaper in his room becomes a focal point of his anxiety.",
+          "The phrase 'I'm a writer, I write' is repeated often.",
+          "It's a darkly comedic and surreal film by two famous brothers."
+        ]
+      },
+      {
+        "title": "A Serious Man",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xV1w1y1W5l5M1X0w0S7x7Q7F7C7P7.jpg",
+        "clues": [
+          "A physics professor's life unravels as he seeks answers to his misfortunes.",
+          "The film explores themes of fate, faith, and the arbitrary nature of suffering.",
+          "Three different rabbis offer increasingly unhelpful advice.",
+          "A blackboard filled with complex equations is a recurring visual.",
+          "It's a dark comedy-drama set in 1960s suburban Minnesota by the same two famous brothers."
+        ]
+      },
+      {
+        "title": "Holy Motors",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qj8f0c5R0jM5X7l7F6F7H5F5T5f.jpg",
+        "clues": [
+          "A mysterious man travels around Paris in a limousine, embodying different characters.",
+          "Each 'appointment' involves him transforming into a new persona and performing a bizarre act.",
+          "One segment features him as a grotesque creature kidnapping a model.",
+          "The film is a surreal exploration of identity, performance, and cinema itself.",
+          "It's an enigmatic French art film with no clear plot."
+        ]
+      },
+      {
+        "title": "Melancholia",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h2N4W8Q1eJ6J0J9P8H5L6M6C2T0.jpg",
+        "clues": [
+          "Two sisters grapple with an impending planetary collision with Earth.",
+          "One sister experiences severe depression, while the other tries to maintain normalcy.",
+          "The film opens with a series of slow-motion, painterly tableaux.",
+          "A homemade 'shelter' is built as the end approaches.",
+          "It's a visually stunning and emotionally devastating drama by a controversial Danish director."
+        ]
+      },
+      {
+        "title": "The Tree of Life",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y4X2z4Y3Y3X6Q7V4L6R4W8T9T8W7.jpg",
+        "clues": [
+          "It explores the origins and meaning of life through the memories of a middle-aged man.",
+          "The narrative seamlessly interweaves scenes of a 1950s Texas family with cosmic imagery.",
+          "Voiceovers ponder profound questions about nature and grace.",
+          "Dinosaurs and the birth of the universe are depicted.",
+          "It's a highly artistic and meditative film by a reclusive American director."
+        ]
+      },
+      {
+        "title": "Eraserhead",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yY8Y5p5P9N6Y5F6M7F7G7H7W7R8D.jpg",
+        "clues": [
+          "A man living in a bleak industrial landscape struggles with fatherhood.",
+          "The film is renowned for its disturbing, dreamlike atmosphere and stark black-and-white visuals.",
+          "A radiator lady sings and dances in a surreal sequence.",
+          "His infant child is a grotesque, bandage-wrapped creature.",
+          "It's a cult surrealist horror film, the debut feature of a famous director."
+        ]
+      },
+      {
+        "title": "Perfect Blue",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y7X5w7L6D3F9J3X5H7K0L8X6U0Q.jpg",
+        "clues": [
+          "A pop idol transitions to acting and finds her reality blurring with her new roles.",
+          "She is stalked by an obsessive fan and experiences increasingly disturbing hallucinations.",
+          "Mirrors and reflections are frequently used motifs.",
+          "A scene involving a photoshoot for a controversial magazine is key.",
+          "It's a groundbreaking animated psychological thriller from Japan."
+        ]
+      },
+      {
+        "title": "The Act of Killing",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xV1w1y1W5l5M1X0w0S7x7Q7F7C7P7.jpg",
+        "clues": [
+          "Former Indonesian death squad leaders reenact their mass killings in various film genres.",
+          "The documentary explores the psychology of perpetrators and the nature of impunity.",
+          "One character dresses in flashy suits, like a gangster.",
+          "The subjects often break into song and dance routines.",
+          "It's a shocking and powerful documentary that blurs lines between reality and performance."
+        ]
+      },
+      {
+        "title": "Dogtooth",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qj8f0c5R0jM5X7l7F6F7H5F5T5f.jpg",
+        "clues": [
+          "Three adult children are confined to their isolated family compound, taught a distorted reality.",
+          "Their parents invent new meanings for common words, like 'sea' meaning 'armchair'.",
+          "Aeroplanes flying overhead are explained as toys falling from the sky.",
+          "The children are trained to believe cats are dangerous monsters.",
+          "It's a darkly comedic and unsettling Greek film about extreme control and manipulation."
+        ]
+      },
+      {
+        "title": "The Lobster",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h2N4W8Q1eJ6J0J9P8H5L6M6C2T0.jpg",
+        "clues": [
+          "Single people are forced to find a partner within 45 days or be transformed into animals.",
+          "The protagonist chooses to become a specific sea creature if he fails.",
+          "A strict hotel environment enforces rigid social rules.",
+          "The film features a 'loner' community in the woods.",
+          "It's a deadpan absurdist comedy exploring societal pressures to be in a relationship."
+        ]
+      }
+    ]
+  }
+]

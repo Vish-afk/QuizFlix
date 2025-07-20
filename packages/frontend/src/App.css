@@ -1,5 +1,7 @@
+/* app.css */
+
 /* ======================================== */
-/* 1. Global Styles & Variables             */
+/* 1. Global Styles & Variables             */
 /* ======================================== */
 :root {
   --background-color: #121212;
@@ -25,35 +27,28 @@ body {
 body.modal-open { overflow: hidden; }
 
 /* ======================================== */
-/* 2. Main App Layout & Background          */
+/* 2. Main App Layout & Background          */
 /* ======================================== */
 .app-container {
   min-height: 100vh;
-  display: flex; /* <-- CHANGE THIS */
-  align-items: center; /* <-- ADD THIS */
-  justify-content: center; /* <-- ADD THIS */
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 1rem;
   position: relative;
   overflow: hidden;
+  background-color: var(--background-color); /* Main app background */
 }
 
-.background-poster {
-  position: absolute;
-  top: -5%; left: -5%;
-  width: 110%; height: 110%;
-  background-size: cover;
-  background-position: center;
-  filter: blur(16px) brightness(0.6);
-  transition: background-image 0.5s ease-in-out;
-  z-index: 1;
-}
+/* REMOVED: .background-poster styles */
 
 .app-overlay {
   position: absolute;
   top: 0; left: 0;
   width: 100%; height: 100%;
+  /* Using your radial gradient from the original file, it's a nice effect */
   background: radial-gradient(circle, rgba(18,18,18,0.6) 0%, rgba(18,18,18,0.9) 80%);
-  z-index: 2;
+  z-index: 1; /* This is now the lowest layer above app-container background */
 }
 
 .quiz-card {
@@ -62,8 +57,18 @@ body.modal-open { overflow: hidden; }
   padding: 2rem;
   text-align: center;
   position: relative;
-  z-index: 10;
+  z-index: 10; /* Make sure it's on top of the overlay */
   animation: fadeIn 0.5s ease;
+  background-color: var(--surface-color); /* Use surface color for card background */
+  border-radius: 15px;
+  box-shadow: 0 8px 16px var(--shadow-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+  box-sizing: border-box;
+  color: var(--text-color);
 }
 
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
@@ -78,7 +83,7 @@ h1 {
 }
 
 /* ======================================== */
-/* 3. Game & Clue Area                      */
+/* 3. Game & Clue Area                      */
 /* ======================================== */
 .game-area, .game-setup, .loading-text { animation: fadeIn 0.5s ease-in-out; }
 .loading-text { font-size: 1.2rem; }
@@ -101,8 +106,31 @@ h1 {
   margin-bottom: 0.5rem;
 }
 
+/* NEW: Styles for the game over results area and the small poster */
+.game-over-results {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem; /* Space between elements */
+  margin-top: 1rem;
+}
+
+.movie-result-poster {
+  width: 150px; /* Adjust size as needed */
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px var(--shadow-color);
+  margin-bottom: 1rem; /* Space below the poster */
+  transition: transform 0.3s ease-in-out;
+}
+
+.movie-result-poster:hover {
+  transform: scale(1.05); /* Slight hover effect */
+}
+
+
 /* ======================================== */
-/* 4. Forms & Buttons                       */
+/* 4. Forms & Buttons                       */
 /* ======================================== */
 .guess-container { position: relative; }
 .guess-form { display: flex; gap: 1rem; }
@@ -131,18 +159,33 @@ button:hover {
 button:active { transform: translateY(0); box-shadow: none; }
 
 .start-btn { padding: 1rem 2rem; font-size: 1.2rem; }
+
 .skip-btn {
   display: block; width: fit-content; margin: 1.5rem auto 0;
   background-color: transparent; color: var(--text-muted-color);
   border: 1px solid var(--border-color); text-transform: none;
 }
 .skip-btn:hover {
-  background-color: var(--error-color); color: white;
+  background-color: var(--error-color); /* Kept original hover for skip, now applies to give up too */
+  color: white;
   border-color: var(--error-color); transform: translateY(0);
 }
 
+.give-up-btn {
+    background-color: #7b2c2c; /* A darker red */
+    color: white;
+    border-color: #7b2c2c;
+}
+
+.give-up-btn:hover {
+    background-color: var(--error-color); /* Brighter red on hover */
+    border-color: var(--error-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(231, 76, 60, 0.2);
+}
+
 /* ======================================== */
-/* 5. Settings & Modal                      */
+/* 5. Settings & Modal                      */
 /* ======================================== */
 .settings-btn {
   position: absolute; top: 1.5rem; right: 1.5rem; background: none;
@@ -183,7 +226,7 @@ button:active { transform: translateY(0); box-shadow: none; }
 .error-message { color: var(--error-color); }
 
 /* ======================================== */
-/* 6. Other Components                      */
+/* 6. Other Components                      */
 /* ======================================== */
 .result { padding: 1.5rem; margin-top: 1rem; border-radius: 12px; }
 .result h2 { margin-bottom: 1rem; font-size: 2rem; }
@@ -213,3 +256,52 @@ button:active { transform: translateY(0); box-shadow: none; }
 
 /* React Select Styles */
 .react-select-container { width: 100%; }
+
+/* ======================================== */
+/* 13. Difficulty Selector                  */
+/* ======================================== */
+.difficulty-selector {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  width: 100%;
+}
+
+.difficulty-btn {
+  flex: 1;
+  background-color: #333;
+  color: var(--text-muted-color);
+  border: 1px solid var(--border-color);
+  padding: 10px;
+  text-transform: capitalize;
+}
+
+.difficulty-btn:hover {
+  background-color: #444;
+  color: white;
+  transform: none; /* Override default button hover */
+  box-shadow: none;
+}
+
+.difficulty-btn.active {
+  background-color: var(--primary-color);
+  color: #121212;
+  border-color: var(--primary-color);
+  font-weight: bold;
+}
+.warning-message {
+  color: #f5c518; /* A visible color, like your primary color */
+  background-color: rgba(245, 197, 24, 0.1); /* Light background for visibility */
+  border: 1px solid var(--primary-color);
+  padding: 0.75rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.warning-message.small {
+  font-size: 0.8rem;
+  padding: 0.5rem;
+  margin-bottom: 1rem; /* Adjust as needed for placement */
+}
