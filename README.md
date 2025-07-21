@@ -79,6 +79,5 @@ You will also need API keys from:
       ```
     - Open [http://localhost:5173](http://localhost:5173) to view the app in your browser.
 
-## Acknowledgments
 
-- Hat tip to the teams behind the [TMDB API](https://www.themoviedb.org/documentation/api) and [Google Gemini](https://ai.google.dev/) for their incredible services.
+
